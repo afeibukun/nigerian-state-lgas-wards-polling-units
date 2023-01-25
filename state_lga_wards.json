@@ -279,332 +279,332 @@
       {
         "lga": "Demsa",
         "wards": [
-            "Bille",
-            "Borrong",
-            "Demsa",
-            "Dilli",
-            "Dong",
-            "Dwam",
-            "Gwamba",
-            "Kpasham",
-            "Mbula Kuli",
-            "Nassarawo Demsa"
+          "Bille",
+          "Borrong",
+          "Demsa",
+          "Dilli",
+          "Dong",
+          "Dwam",
+          "Gwamba",
+          "Kpasham",
+          "Mbula Kuli",
+          "Nassarawo Demsa"
         ]
       },
       {
         "lga": "Fufure",
         "wards": [
-            "Beti",
-            "Farang",
-            "Fufore",
-            "Gurin",
-            "Karlahi",
-            "Mayo Ine",
-            "Pariya",
-            "Ribadu",
-            "Uki Tuki",
-            "Wuro Bokki",
-            "Yadim"
+          "Beti",
+          "Farang",
+          "Fufore",
+          "Gurin",
+          "Karlahi",
+          "Mayo Ine",
+          "Pariya",
+          "Ribadu",
+          "Uki Tuki",
+          "Wuro Bokki",
+          "Yadim"
         ]
       },
       {
         "lga": "Ganye",
         "wards": [
-            "Bakari Guso",
-            "Gamu",
-            "Ganye I",
-            "Ganye Ii",
-            "Gurum",
-            "Jaggu",
-            "Sangasumi",
-            "Sugu",
-            "Timdore",
-            "Yebbi"
+          "Bakari Guso",
+          "Gamu",
+          "Ganye I",
+          "Ganye Ii",
+          "Gurum",
+          "Jaggu",
+          "Sangasumi",
+          "Sugu",
+          "Timdore",
+          "Yebbi"
         ]
       },
       {
         "lga": "Girie",
         "wards": [
-            "Dakri",
-            "Damare",
-            "Gerei I",
-            "Gereng",
-            "Girei Ii",
-            "Jera Bakari",
-            "Jera Bonyo",
-            "Modire/ Vinikilang",
-            "Tambo",
-            "Wuro Dole"
+          "Dakri",
+          "Damare",
+          "Gerei I",
+          "Gereng",
+          "Girei Ii",
+          "Jera Bakari",
+          "Jera Bonyo",
+          "Modire/ Vinikilang",
+          "Tambo",
+          "Wuro Dole"
         ]
       },
       {
         "lga": "Gombi",
         "wards": [
-            "Boga/ Dingai",
-            "Duwa",
-            "Ga'anda",
-            "Gabun",
-            "Garkida",
-            "Gombi North",
-            "Gombi South",
-            "Guyaku",
-            "Tawa",
-            "Yang"
+          "Boga/ Dingai",
+          "Duwa",
+          "Ga'anda",
+          "Gabun",
+          "Garkida",
+          "Gombi North",
+          "Gombi South",
+          "Guyaku",
+          "Tawa",
+          "Yang"
         ]
       },
       {
         "lga": "Guyuk",
         "wards": [
-            "Banjiram",
-            "Bobini",
-            "Bodeno",
-            "Chikila",
-            "Dukul",
-            "Dumna",
-            "Guyuk",
-            "Kola",
-            "Lokoro",
-            "Purokayo"
+          "Banjiram",
+          "Bobini",
+          "Bodeno",
+          "Chikila",
+          "Dukul",
+          "Dumna",
+          "Guyuk",
+          "Kola",
+          "Lokoro",
+          "Purokayo"
         ]
       },
       {
         "lga": "Hong",
         "wards": [
-            "Bangshika",
-            "Daksiri",
-            "Garaha",
-            "Gaya",
-            "Hildi",
-            "Hong",
-            "Hushere Zum",
-            "Kwarhi",
-            "Mayo Lope",
-            "Shangui",
-            "Thilbang",
-            "Uba"
+          "Bangshika",
+          "Daksiri",
+          "Garaha",
+          "Gaya",
+          "Hildi",
+          "Hong",
+          "Hushere Zum",
+          "Kwarhi",
+          "Mayo Lope",
+          "Shangui",
+          "Thilbang",
+          "Uba"
         ]
       },
       {
         "lga": "Jada",
         "wards": [
-            "Danaba",
-            "Jada I",
-            "Jada Ii",
-            "Koma I",
-            "Koma Ii",
-            "Leko",
-            "Mapeo",
-            "Mayokalaye",
-            "Mbulo",
-            "Nyibango",
-            "Yelli"
+          "Danaba",
+          "Jada I",
+          "Jada Ii",
+          "Koma I",
+          "Koma Ii",
+          "Leko",
+          "Mapeo",
+          "Mayokalaye",
+          "Mbulo",
+          "Nyibango",
+          "Yelli"
         ]
       },
       {
         "lga": "Lamurde",
         "wards": [
-            "Dubwangun",
-            "Gyawana",
-            "Lafiya",
-            "Lamurde",
-            "Mgbebongun",
-            "Ngbakowo",
-            "Opalo",
-            "Rigange",
-            "Suwa",
-            "Waduku"
+          "Dubwangun",
+          "Gyawana",
+          "Lafiya",
+          "Lamurde",
+          "Mgbebongun",
+          "Ngbakowo",
+          "Opalo",
+          "Rigange",
+          "Suwa",
+          "Waduku"
         ]
       },
       {
         "lga": "Madagali",
         "wards": [
-            "Babel",
-            "Duhu/ Shuwa",
-            "Gulak",
-            "Hyambula",
-            "K/wuro Ngayandi",
-            "Madagali",
-            "Pallam",
-            "Shelmi / Sukur/ Vapura",
-            "Wagga",
-            "Wula"
+          "Babel",
+          "Duhu/ Shuwa",
+          "Gulak",
+          "Hyambula",
+          "K/wuro Ngayandi",
+          "Madagali",
+          "Pallam",
+          "Shelmi / Sukur/ Vapura",
+          "Wagga",
+          "Wula"
         ]
       },
       {
         "lga": "Maiha",
         "wards": [
-            "Belel",
-            "Humbutudi",
-            "Konkol",
-            "Maiha Gari",
-            "Manjekin",
-            "Mayonguli",
-            "Pakka",
-            "Sorau 'a'",
-            "Sorau 'b'",
-            "Tambajam"
+          "Belel",
+          "Humbutudi",
+          "Konkol",
+          "Maiha Gari",
+          "Manjekin",
+          "Mayonguli",
+          "Pakka",
+          "Sorau 'a'",
+          "Sorau 'b'",
+          "Tambajam"
         ]
       },
       {
         "lga": "Mayo Belwa",
         "wards": [
-            "Bajama",
-            "Binyeri",
-            "Gangfada",
-            "Gengle",
-            "Gorobi",
-            "Mayo Farang",
-            "Mayo-belwa",
-            "Nassarawo Jereng",
-            "Ndikong",
-            "Ribadu",
-            "Tola",
-            "Yoffo"
+          "Bajama",
+          "Binyeri",
+          "Gangfada",
+          "Gengle",
+          "Gorobi",
+          "Mayo Farang",
+          "Mayo-belwa",
+          "Nassarawo Jereng",
+          "Ndikong",
+          "Ribadu",
+          "Tola",
+          "Yoffo"
         ]
       },
       {
         "lga": "Michika",
         "wards": [
-            "Bazza Margi",
-            "Futudou / Futules",
-            "Garta / Ghunchi",
-            "Jigalambu",
-            "Madzi",
-            "Michika I",
-            "Michika Ii",
-            "Minkisi/ Wuro Ngiki",
-            "Moda / Dlaka / Ghenjuwa",
-            "Munkavicita",
-            "Sina / Kamale / Kwande",
-            "Sukumu / Tillijo",
-            "Thukudou / Sufuku / Zah",
-            "Tumbara / Ngabili",
-            "Vi / Boka",
-            "Wamblimi / Tilli"
+          "Bazza Margi",
+          "Futudou / Futules",
+          "Garta / Ghunchi",
+          "Jigalambu",
+          "Madzi",
+          "Michika I",
+          "Michika Ii",
+          "Minkisi/ Wuro Ngiki",
+          "Moda / Dlaka / Ghenjuwa",
+          "Munkavicita",
+          "Sina / Kamale / Kwande",
+          "Sukumu / Tillijo",
+          "Thukudou / Sufuku / Zah",
+          "Tumbara / Ngabili",
+          "Vi / Boka",
+          "Wamblimi / Tilli"
         ]
       },
       {
         "lga": "Mubi North",
         "wards": [
-            "Bahuli",
-            "Betso",
-            "Digil",
-            "Kolere",
-            "Lokuwa",
-            "Mayo Bani",
-            "Mijilu",
-            "Muchalla",
-            "Sabon Layi",
-            "Vimtim",
-            "Yelwa"
+          "Bahuli",
+          "Betso",
+          "Digil",
+          "Kolere",
+          "Lokuwa",
+          "Mayo Bani",
+          "Mijilu",
+          "Muchalla",
+          "Sabon Layi",
+          "Vimtim",
+          "Yelwa"
         ]
       },
       {
         "lga": "Mubi South",
         "wards": [
-            "Dirbishi/gandira",
-            "Duvu/ Chaba/ Girburum",
-            "Gella",
-            "Gude",
-            "Kwaja",
-            "Lamorde",
-            "Mugulbu/ Yadafa",
-            "Mujara",
-            "Nassarawo",
-            "Nduku"
+          "Dirbishi/gandira",
+          "Duvu/ Chaba/ Girburum",
+          "Gella",
+          "Gude",
+          "Kwaja",
+          "Lamorde",
+          "Mugulbu/ Yadafa",
+          "Mujara",
+          "Nassarawo",
+          "Nduku"
         ]
       },
       {
         "lga": "Numan",
         "wards": [
-            "Bare",
-            "Bolki",
-            "Gamadio",
-            "Imburu",
-            "Kodomti",
-            "Numan I",
-            "Numan Ii",
-            "Numan Iii",
-            "Sabon Pegi",
-            "Vulpi"
+          "Bare",
+          "Bolki",
+          "Gamadio",
+          "Imburu",
+          "Kodomti",
+          "Numan I",
+          "Numan Ii",
+          "Numan Iii",
+          "Sabon Pegi",
+          "Vulpi"
         ]
       },
       {
         "lga": "Shelleng",
         "wards": [
-            "Bakta",
-            "Bodwai",
-            "Gundo",
-            "Gwapopolok",
-            "Jumbul",
-            "Ketembere",
-            "Kiri",
-            "Libbo",
-            "Shelleng",
-            "Tallum"
+          "Bakta",
+          "Bodwai",
+          "Gundo",
+          "Gwapopolok",
+          "Jumbul",
+          "Ketembere",
+          "Kiri",
+          "Libbo",
+          "Shelleng",
+          "Tallum"
         ]
       },
       {
         "lga": "Song",
         "wards": [
-            "Dirma",
-            "Dumne",
-            "Gudu Mboi",
-            "Kilange Funa",
-            "Kilange Hirna",
-            "Sigire",
-            "Song Gari",
-            "Song Waje",
-            "Suktu",
-            "Waltandi",
-            "Zumo"
+          "Dirma",
+          "Dumne",
+          "Gudu Mboi",
+          "Kilange Funa",
+          "Kilange Hirna",
+          "Sigire",
+          "Song Gari",
+          "Song Waje",
+          "Suktu",
+          "Waltandi",
+          "Zumo"
         ]
       },
       {
         "lga": "Toungo",
         "wards": [
-            "Dawo I",
-            "Dawo Ii",
-            "Gumti",
-            "Kiri I",
-            "Kiri Ii",
-            "Kongin Baba I",
-            "Kongin Baba Ii",
-            "Toungo I",
-            "Toungo Ii",
-            "Toungo Iii"
+          "Dawo I",
+          "Dawo Ii",
+          "Gumti",
+          "Kiri I",
+          "Kiri Ii",
+          "Kongin Baba I",
+          "Kongin Baba Ii",
+          "Toungo I",
+          "Toungo Ii",
+          "Toungo Iii"
         ]
       },
       {
         "lga": "Yola North",
         "wards": [
-            "Ajiya",
-            "Alkalawa",
-            "Doubeli",
-            "Gwadabawa",
-            "Jambutu",
-            "Karena",
-            "Limawa",
-            "Luggere",
-            "Nassarawo",
-            "Rumde",
-            "Yelwa"
+          "Ajiya",
+          "Alkalawa",
+          "Doubeli",
+          "Gwadabawa",
+          "Jambutu",
+          "Karena",
+          "Limawa",
+          "Luggere",
+          "Nassarawo",
+          "Rumde",
+          "Yelwa"
         ]
       },
       {
         "lga": "Yola South",
         "wards": [
-            "Adarawo",
-            "Bako",
-            "Bole Yolde Pate",
-            "Makama 'a'",
-            "Makama 'b'",
-            "Mbamba",
-            "Mbamoi",
-            "Namtari",
-            "Ngurore",
-            "Toungo",
-            "Yolde Kohi"
+          "Adarawo",
+          "Bako",
+          "Bole Yolde Pate",
+          "Makama 'a'",
+          "Makama 'b'",
+          "Mbamba",
+          "Mbamoi",
+          "Namtari",
+          "Ngurore",
+          "Toungo",
+          "Yolde Kohi"
         ]
       }
     ]
@@ -614,7 +614,19 @@
     "lgas": [
       {
         "lga": "Abak",
-        "wards": []
+        "wards": [
+          "Abak Urban 1",
+          "Abak Urban 11",
+          "Abak Urban 111",
+          "Abak Urban 1v",
+          "Afaha Obong 1",
+          "Afaha Obong 11",
+          "Midim 1",
+          "Midim 11",
+          "Otoro 1",
+          "Otoro 11",
+          "Otoro 111"
+        ]
       },
       {
         "lga": "Akpabuyo",
@@ -622,119 +634,471 @@
       },
       {
         "lga": "Eastern Obolo",
-        "wards": []
+        "wards": [
+          "Eastern Obolo 1",
+          "Eastern Obolo 11",
+          "Eastern Obolo 111",
+          "Eastern Obolo 1v",
+          "Eastern Obolo Ix",
+          "Eastern Obolo V",
+          "Eastern Obolo V1",
+          "Eastern Obolo V11",
+          "Eastern Obolo V111",
+          "Eastern Obolo X "
+        ]
       },
       {
         "lga": "Eket",
-        "wards": []
+        "wards": [
+          "Central 1",
+          "Central 11",
+          "Central 111",
+          "Central 1v",
+          "Central V",
+          "Okon 1",
+          "Okon 11",
+          "Urban 1",
+          "Urban 11",
+          "Urban 111",
+          "Urban 1v"
+        ]
       },
       {
         "lga": "Esit Eket",
-        "wards": []
+        "wards": [
+          "Akpautong",
+          "Ebe Ekpi",
+          "Ebighi Okpono",
+          "Edor",
+          "Ekpene Obo",
+          "Etebi Akwata",
+          "Etebi Idung Assan",
+          "Ikpa",
+          "Ntak Inyang",
+          "Uquo"
+        ]
       },
       {
         "lga": "Essien Udim",
-        "wards": []
+        "wards": [
+          "Adiasim",
+          "Afaha",
+          "Ekpeyong 1",
+          "Ekpeyong 11",
+          "Ikpe Annang",
+          "Odoro Ikot 1",
+          "Odoro Ikot 11",
+          "Okon",
+          "Ukana East",
+          "Ukana West 1",
+          "Ukana West 11"
+        ]
       },
       {
         "lga": "Etim Ekpo",
-        "wards": []
+        "wards": [
+          "Etim Ekpo 1",
+          "Etim Ekpo 11",
+          "Etim Ekpo 111",
+          "Etim Ekpo 1v",
+          "Etim Ekpo Ix",
+          "Etim Ekpo V",
+          "Etim Ekpo V1",
+          "Etim Ekpo V11",
+          "Etim Ekpo V111",
+          "Etim Ekpo X"
+        ]
       },
       {
         "lga": "Etinan",
-        "wards": []
+        "wards": [
+          "Etinan Urban 1",
+          "Etinan Urban 11",
+          "Etinan Urban 111",
+          "Etinan Urban 1v",
+          "Etinan Urban V",
+          "Northern Iman 1",
+          "Northern Iman 11",
+          "Southern Iman 1",
+          "Southern Iman 11",
+          "Southern Iman 111",
+          "Southern Iman 1v"
+        ]
       },
       {
         "lga": "Ibeno",
-        "wards": []
+        "wards": [
+          "Ibeno 1",
+          "Ibeno 11",
+          "Ibeno 111",
+          "Ibeno 1v",
+          "Ibeno Ix",
+          "Ibeno V",
+          "Ibeno V11",
+          "Ibeno V111",
+          "Ibeno Vi",
+          "Ibeno X"
+        ]
       },
       {
         "lga": "Ibesikpo Asutan",
-        "wards": []
+        "wards": [
+          "Asutan 1",
+          "Asutan 11",
+          "Asutan 111",
+          "Asutan 1v",
+          "Asutan V",
+          "Ibesikpo 1",
+          "Ibesikpo 11",
+          "Ibesikpo 111",
+          "Ibesikpo 1v",
+          "Ibesikpo V"
+        ]
       },
       {
         "lga": "Ibiono-Ibom",
-        "wards": []
+        "wards": [
+          "Ibiono Central 1",
+          "Ibiono Central 11",
+          "Ibiono Eastern 1",
+          "Ibiono Eastern 11",
+          "Ibiono Northern 1",
+          "Ibiono Northern 11",
+          "Ibiono Southern 1",
+          "Ibiono Southern 11",
+          "Ibiono Western 1",
+          "Ibiono Western 11",
+          "Ikpanya"
+        ]
       },
       {
         "lga": "Ika",
-        "wards": []
+        "wards": [
+          "Achan 11",
+          "Achan 111",
+          "Achan Ika",
+          "Ito 1",
+          "Ito 11",
+          "Ito 111",
+          "Odoro 1",
+          "Odoro 11",
+          "Urban 1",
+          "Urban 11"
+        ]
       },
       {
         "lga": "Ikono",
-        "wards": []
+        "wards": [
+          "1tak",
+          "Ediene 1",
+          "Ediene 11",
+          "Ikono Middle 1",
+          "Ikono Middle 11",
+          "Ikono Middle 111",
+          "Ikono Middle 1v",
+          "Ikono South",
+          "Ndiya/ikot Idana",
+          "Nkwot 1",
+          "Nkwot 11"
+        ]
       },
       {
         "lga": "Ikot Abasi",
-        "wards": []
+        "wards": [
+          "Edemaya 1",
+          "Edemaya 11",
+          "Edemaya 111",
+          "Ikpa Ibekwe 1",
+          "Ikpa Ibekwe 11",
+          "Ikpa Nung Asang 1",
+          "Ikpa Nung Asang 11",
+          "Ukpum Ete 1",
+          "Ukpum Ete 11",
+          "Ukpum Okon"
+        ]
       },
       {
         "lga": "Ikot Ekpene",
-        "wards": []
+        "wards": [
+          "Ikot Ekpene 1",
+          "Ikot Ekpene 11",
+          "Ikot Ekpene 111",
+          "Ikot Ekpene 1v",
+          "Ikot Ekpene Ix",
+          "Ikot Ekpene V",
+          "Ikot Ekpene V1",
+          "Ikot Ekpene V11",
+          "Ikot Ekpene V111",
+          "Ikot Ekpene X",
+          "Ikot Ekpene X1"
+        ]
       },
       {
         "lga": "Ini",
-        "wards": []
+        "wards": [
+          "Ikono North 1",
+          "Ikono North 11",
+          "Ikono North 111",
+          "Ikpe 1",
+          "Ikpe 11",
+          "Itu Mbonuso",
+          "Iwerre",
+          "Nkari",
+          "Odoro Ukwok",
+          "Usuk Ukwok"
+        ]
       },
       {
         "lga": "Itu",
-        "wards": []
+        "wards": [
+          "East Itam 1",
+          "East Itam 11",
+          "East Itam 111",
+          "East Itam 1v",
+          "East Itam V",
+          "Mbiase/ayadehe",
+          "Oku Iboku",
+          "West Itam 1",
+          "West Itam 11",
+          "West Itam 111"
+        ]
       },
       {
         "lga": "Mbo",
-        "wards": []
+        "wards": [
+          "Ebughu 1",
+          "Ebughu 11",
+          "Efiat 1",
+          "Efiat 11",
+          "Enwang 1",
+          "Enwang 11",
+          "Ibaka",
+          "Uda 1",
+          "Uda 11",
+          "Udesi"
+        ]
       },
       {
         "lga": "Mkpat-Etim",
-        "wards": []
+        "wards": [
+          "Ibiaku 1",
+          "Ibiaku 11",
+          "Ibiaku 111",
+          "Ikpa Ibom 1",
+          "Ikpa Ibom 11",
+          "Ikpa Ibom 111",
+          "Ikpa Ibom 1v",
+          "Ikpa Ikono 1",
+          "Ikpa Ikono 11",
+          "Ikpa Ikono 111",
+          "Ukpum Minya 1",
+          "Ukpum Minya 11",
+          "Ukpum Minya 111",
+          "Ukpum Minya 1v"
+        ]
       },
       {
         "lga": "Nsit-Atai",
-        "wards": []
+        "wards": [
+          "Eastern Nsit 1",
+          "Eastern Nsit 11",
+          "Eastern Nsit 111",
+          "Eastern Nsit 1v",
+          "Eastern Nsit Ix",
+          "Eastern Nsit V",
+          "Eastern Nsit V1",
+          "Eastern Nsit V11",
+          "Eastern Nsit V111",
+          "Eastern Nsit X"
+        ]
       },
       {
         "lga": "Nsit-Ibom",
-        "wards": []
+        "wards": [
+          "Asang 1",
+          "Asang 11",
+          "Asang 111",
+          "Asang 1v",
+          "Asang V",
+          "Mbaiso 1",
+          "Mbaiso 11",
+          "Mbaiso 111",
+          "Mbaiso 1v",
+          "Mbaiso V"
+        ]
+      },
+      {
+        "lga": "Nsit Ubium",
+        "wards": [
+          "Ibiakpan Obotim 1",
+          "Ibiakpan/obotim 11",
+          "Itreto",
+          "Ndiya",
+          "Ubium North 1",
+          "Ubium North 11",
+          "Ubium North 111",
+          "Ubium South 1",
+          "Ubium South 11",
+          "Ubium South 111"
+        ]
       },
       {
         "lga": "Obot Akara",
-        "wards": []
+        "wards": [
+          "Ikot Abia 1",
+          "Ikot Abia 11",
+          "Ikot Abia 111",
+          "Nto Edino 1",
+          "Nto Edino 11",
+          "Nto Edino 111",
+          "Nto Edino 1v",
+          "Obot Akara 1",
+          "Obot Akara 11",
+          "Obot Akara 111"
+        ]
       },
       {
         "lga": "Okobo",
-        "wards": []
+        "wards": [
+          "Akai/mbukpo/udung",
+          "Ekeya",
+          "Eweme 1",
+          "Eweme 11",
+          "Nung Atai/ube 1",
+          "Nung Atai/ube 11",
+          "Offi 1",
+          "Offi 11",
+          "Okopedi 1",
+          "Okopedi 11"
+        ]
       },
       {
         "lga": "Onna",
-        "wards": []
+        "wards": [
+          "Awa 1",
+          "Awa 11",
+          "Awa 111",
+          "Awa 1v",
+          "Nung Idem 1",
+          "Nung Idem 11",
+          "Oniong East 1",
+          "Oniong East 11",
+          "Oniong East 111",
+          "Oniong West 1",
+          "Oniong West 11",
+          "Oniong West 111"
+        ]
       },
       {
         "lga": "Oron",
-        "wards": []
+        "wards": [
+          "Oron Urban Ix",
+          "Oron Urban X",
+          "Oron Urban 1",
+          "Oron Urban 11",
+          "Oron Urban 111",
+          "Oron Urban 1v",
+          "Oron Urban V",
+          "Oron Urban V1",
+          "Oron Urban V11",
+          "Oron Urban V111"
+        ]
       },
       {
         "lga": "Oruk Anam",
-        "wards": []
+        "wards": [
+          "Abak Midim 1",
+          "Abak Midim 11",
+          "Abak Midim 111",
+          "Abak Midim 1v",
+          "Ekparakwa",
+          "Ibesit/nung Ikot 1",
+          "Ibesit/nung Ikot 11",
+          "Ikot Ibritam 1",
+          "Ikot Ibritam 11",
+          "Ndot/ikot Okoro 1",
+          "Ndot/ikot Okoro 11",
+          "Ndot/ikot Okoro 111",
+          "Ndot/ikot Okoro V1"
+        ]
       },
       {
         "lga": "Udung-Uko",
-        "wards": []
+        "wards": [
+          "Udung Uko 1",
+          "Udung Uko 11",
+          "Udung Uko 111",
+          "Udung Uko 1v",
+          "Udung Uko Ix",
+          "Udung Uko V",
+          "Udung Uko V1",
+          "Udung Uko V11",
+          "Udung Uko V111",
+          "Udung Uko X"
+        ]
       },
       {
         "lga": "Ukanafun",
-        "wards": []
+        "wards": [
+          "Northern Afaha 1",
+          "Northern Afaha 11",
+          "Northern Ukanafun 1",
+          "Northern Ukanafun 11",
+          "Southern Afaha, Adat Ifang 1",
+          "Southern Afaha, Adat Ifang 11",
+          "Southern Afaha, Adat Ifang 111",
+          "Southern Afaha, Adat Ifang 1v",
+          "Southern Ukanafun 1",
+          "Southern Ukanafun 11",
+          "Ukanafun Urban"
+        ]
       },
       {
         "lga": "Uruan",
-        "wards": []
+        "wards": [
+          "Central Uruan 11",
+          "Central Uruan 1",
+          "Central Uruan 111",
+          "Northern Uruan 1",
+          "Northern Uruan 11",
+          "Southern Uruan 1",
+          "Southern Uruan 11",
+          "Southern Uruan 111",
+          "Southern Uruan Iv",
+          "Southern Uruan V",
+          "Southern Uruan V1"
+        ]
       },
       {
         "lga": "Urue-Offong/Oruko",
-        "wards": []
+        "wards": [
+          "Oruko 1",
+          "Oruko 11",
+          "Oruko 111",
+          "Oruko 1v",
+          "Oruko V",
+          "Urue Offong 1",
+          "Urue Offong 11",
+          "Urue Offong 111",
+          "Urue Offong 1v",
+          "Urue Offong V"
+        ]
       },
       {
         "lga": "Uyo",
-        "wards": []
+        "wards": [
+          "Etoi 1",
+          "Etoi 11",
+          "Ikono 1",
+          "Ikono 11",
+          "Offot 1",
+          "Offot 11",
+          "Oku 1",
+          "Oku 11",
+          "Uyo Urban 1",
+          "Uyo Urban 11",
+          "Uyo Urban 111"
+        ]
       }
     ]
   },
@@ -743,87 +1107,435 @@
     "lgas": [
       {
         "lga": "Aguata",
-        "wards": []
+        "wards": [
+          "Achina I",
+          "Achina Ii",
+          "Agulueze Chukwu",
+          "Akpo",
+          "Amesi",
+          "Ekwulobia I",
+          "Ekwulobia Ii",
+          "Ezinifite I",
+          "Ezinifite Ii",
+          "Igbo - Ukwu Ii",
+          "Igbo-ukwu I",
+          "Ikenga",
+          "Isuofia",
+          "Nkpologwu",
+          "Oreri",
+          "Uga I",
+          "Uga Ii",
+          "Umuchu I",
+          "Umuchu Ii",
+          "Umuona"
+        ]
       },
       {
         "lga": "Anambra East",
-        "wards": []
+        "wards": [
+          "Aguleri",
+          "Aguleri Ii",
+          "Enugwu-otu",
+          "Eziagulu-otu",
+          "Igbariam",
+          "Nando I",
+          "Nando Ii",
+          "Nando Iii",
+          "Nsugbe I",
+          "Nsugbe Ii",
+          "Otuocha I",
+          "Otuocha Ii",
+          "Umuleri Ii",
+          "Umuoba-anam",
+          "Umureli I"
+        ]
       },
       {
         "lga": "Anambra West",
-        "wards": []
+        "wards": [
+          "Ezi-anam",
+          "Ifite-anam",
+          "Nzam",
+          "Olumbanasa - Ode",
+          "Olumbanasa-inoma",
+          "Oroma Etiti-anam",
+          "Umuenwelum-anam",
+          "Umueze-anam I",
+          "Umueze-anam Ii",
+          "Umuoba-anam"
+        ]
       },
       {
         "lga": "Anaocha",
-        "wards": []
+        "wards": [
+          "Adazi Ani I",
+          "Adazi Ani Ii",
+          "Adazi Enu I",
+          "Adazi Enu Ii",
+          "Adazi Nnukwu I",
+          "Adazi Nnukwu Ii",
+          "Agulu Iv",
+          "Agulu I",
+          "Agulu Ii",
+          "Agulu Iii",
+          "Agulu Uzoigbo",
+          "Akwaeze",
+          "Ichida I",
+          "Ichida Ii",
+          "Neni I",
+          "Neni Ii",
+          "Nri I",
+          "Nri Ii",
+          "Obeledu"
+        ]
       },
       {
         "lga": "Awka North",
-        "wards": []
+        "wards": [
+          "Achalla I",
+          "Achalla I1",
+          "Achalla I1i",
+          "Amansea",
+          "Amanuke",
+          "Awba-ofemmili",
+          "Ebenebe I",
+          "Ebenebe Ii",
+          "Ebenebe Iii",
+          "Isu Aniocha",
+          "Mabakwu I (anezike)",
+          "Ugbene",
+          "Ugbenu",
+          "Urum"
+        ]
       },
       {
         "lga": "Awka South",
-        "wards": []
+        "wards": [
+          "Agu Oka",
+          "Amawbia I",
+          "Amawbia Ii",
+          "Amawbia Iii",
+          "Awka I",
+          "Awka Ii",
+          "Awka Iii",
+          "Awka Iv",
+          "Awka V",
+          "Awka Vi",
+          "Awka Vii",
+          "Ezinato/isiagu",
+          "Mba-ukwu",
+          "Nibo I",
+          "Nibo Ii",
+          "Nibo Iii",
+          "Nise I",
+          "Nise Ii",
+          "Okpuno",
+          "Umuawulu"
+        ]
       },
       {
         "lga": "Ayamelum",
-        "wards": []
+        "wards": [
+          "Anaku",
+          "Ifite Ogwari I",
+          "Ifite Ogwari Ii",
+          "Igbakwu",
+          "Omasi",
+          "Omor I",
+          "Omor Ii",
+          "Omor Iii",
+          "Ume Rum",
+          "Umueje Umueje",
+          "Umumbo"
+        ]
       },
       {
         "lga": "Dunukofia",
-        "wards": []
+        "wards": [
+          "Akwa",
+          "Ifitedunu I",
+          "Ifitedunu Ii",
+          "Nawgu I",
+          "Nawgu Ii",
+          "Ukpo I",
+          "Ukpo Ii",
+          "Ukpo Iii",
+          "Ukwulu I",
+          "Ukwulu Ii",
+          "Umudioka I",
+          "Umudioka Ii",
+          "Umunnachi I",
+          "Umunnachi Ii"
+        ]
       },
       {
         "lga": "Ekwusigo",
-        "wards": []
+        "wards": [
+          "Amakwa Ii",
+          "Ichi",
+          "Ihembosi/anaubahu",
+          "Ihiteoha",
+          "Oraifite I",
+          "Oraifite Ii",
+          "Oraifite Iii",
+          "Ozubulu I",
+          "Ozubulu Ii",
+          "Ozubulu Iii",
+          "Ozubulu Iv",
+          "Ozubulu V"
+        ]
       },
       {
         "lga": "Idemili North",
-        "wards": []
+        "wards": [
+          "Abacha",
+          "Abatete",
+          "Eziowele",
+          "Ideani",
+          "Nkpor I",
+          "Nkpor Ii",
+          "Obosi",
+          "Ogidi I",
+          "Ogidi Ii",
+          "Oraukwu",
+          "Uke",
+          "Umuoji"
+        ]
       },
       {
         "lga": "Idemili South",
-        "wards": []
+        "wards": [
+          "Abacha",
+          "Abatete",
+          "Eziowele",
+          "Ideani",
+          "Nkpor I",
+          "Nkpor Ii",
+          "Obosi",
+          "Ogidi I",
+          "Ogidi Ii",
+          "Oraukwu",
+          "Uke",
+          "Umuoji"
+        ]
       },
       {
         "lga": "Ihiala",
-        "wards": []
+        "wards": [
+          "Amamu I",
+          "Amamu Ii",
+          "Amorka",
+          "Azia",
+          "Ihite",
+          "Isseke",
+          "Lilu",
+          "Mbosi",
+          "Ogbolo",
+          "Okija I",
+          "Okija Ii",
+          "Okija Iii",
+          "Okija Iv",
+          "Okija V",
+          "Orsumoghu",
+          "Ubuluisiuzo",
+          "Uli I",
+          "Uli Ii",
+          "Uli Iii",
+          "Uzoakwa"
+        ]
       },
       {
         "lga": "Njikoka",
-        "wards": []
+        "wards": [
+          "Abagana I",
+          "Abagana Ii",
+          "Abagana Iii",
+          "Abagana Iv",
+          "Abba I",
+          "Abba Ii",
+          "Enugwu Ukwu I",
+          "Enugwu Ukwu Ii",
+          "Enugwu Ukwu Iii",
+          "Enugwu Ukwu Iv",
+          "Enugwu-agidi I",
+          "Enugwu-agidi Ii",
+          "Nawfia I",
+          "Nawfia Ii",
+          "Nimo I",
+          "Nimo Ii",
+          "Nimo Iii",
+          "Nimo Iv"
+        ]
       },
       {
         "lga": "Nnewi North",
-        "wards": []
+        "wards": [
+          "Nnewi-ichi I",
+          "Nnewi-ichi Ii",
+          "Otolo I",
+          "Otolo Iii",
+          "Otolo Ii",
+          "Umudim I",
+          "Umudim Ii",
+          "Uruagu I",
+          "Uruagu Ii",
+          "Uruagu Iii"
+        ]
       },
       {
         "lga": "Nnewi South",
-        "wards": []
+        "wards": [
+          "Akwa-ihedi",
+          "Amichi I",
+          "Amichi Ii",
+          "Amichi Iii",
+          "Azuigbo",
+          "Ebenator",
+          "Ekwulumili",
+          "Ezinifite",
+          "Ezinifite I",
+          "Ezinifite Ii",
+          "Ezinifite Iii",
+          "Osumenyi I",
+          "Osumenyi Ii",
+          "Ukpor I",
+          "Ukpor Ii",
+          "Ukpor Iii",
+          "Ukpor Iv",
+          "Ukpor V",
+          "Ukpor Vi",
+          "Unubi",
+          "Utuh"
+        ]
       },
       {
         "lga": "Ogbaru",
-        "wards": []
+        "wards": [
+          "Akili - Ozizor",
+          "Akili Ogidi/obeagwe",
+          "Atani I",
+          "Atani Ii",
+          "Iyiowa/odekpe/ohita",
+          "Ochuche-umuodu/ogbakuba/amiyi",
+          "Ogwu-ikpele",
+          "Ogwuaniocha",
+          "Okpoko I",
+          "Okpoko Ii",
+          "Okpoko Iii",
+          "Okpoko Iv",
+          "Okpoko V",
+          "Okpoko Vi",
+          "Ossomala",
+          "Umunankwo/mputu"
+        ]
       },
       {
         "lga": "Onitsha North",
-        "wards": []
+        "wards": [
+          "American Quarters",
+          "G.R.A",
+          "Inland Town I",
+          "Inland Town Ii",
+          "Inland Town Iii",
+          "Inland Town Iv",
+          "Inland Town V",
+          "Inland Town Vi",
+          "Inland Town Vii",
+          "Inland Town Viii`",
+          "Ogbe Umuonicha",
+          "Trans Nkisi",
+          "Water-side Central 1",
+          "Water-side Central Ii",
+          "Woluwo Layout"
+        ]
       },
       {
         "lga": "Onitsha South",
-        "wards": []
+        "wards": [
+          "Bridge Head I",
+          "Bridge Head Ii",
+          "Bridge Head Iii",
+          "Fegge 1",
+          "Fegge 1v",
+          "Fegge Ii",
+          "Fegge Iii",
+          "Fegge V",
+          "Fegge Vi",
+          "Fegge Vii",
+          "Odoakpu I",
+          "Odoakpu Ii",
+          "Odoakpu Iii",
+          "Odoakpu Iv",
+          "Odoakpu V",
+          "Odoakpu Vi",
+          "Odoakpu Vii"
+        ]
       },
       {
         "lga": "Orumba North",
-        "wards": []
+        "wards": [
+          "Ajalli I (obinikpa And Umueve)",
+          "Ajalli Ii (umuabiama And Amaga)",
+          "Amaetiti",
+          "Amaokpala / Omogho",
+          "Awa",
+          "Awgbu I",
+          "Awgbu Ii",
+          "Nanka I",
+          "Nanka Ii",
+          "Ndi Okpalaeze",
+          "Ndikelionwu",
+          "Ndiokolo/ndiokpaleke",
+          "Ndiowu",
+          "Ndiukwuenu/okpeze",
+          "Oko Ii",
+          "Oko I",
+          "Ufuma I",
+          "Ufuma Ii"
+        ]
       },
       {
         "lga": "Orumba South",
-        "wards": []
+        "wards": [
+          "Agbudu",
+          "Akpu",
+          "Enugu/umonyia",
+          "Eziagu",
+          "Ezira",
+          "Ihite",
+          "Isulo",
+          "Nawfija",
+          "Nkerehi",
+          "Ogboji",
+          "Ogbunka I",
+          "Ogbunka Ii",
+          "Owerre-ezukala I",
+          "Owerre-ezukala Ii",
+          "Umunze I",
+          "Umunze Ii",
+          "Umunze Iii",
+          "Umuomaku"
+        ]
       },
       {
         "lga": "Oyi",
-        "wards": []
+        "wards": [
+          "Awkuzu I",
+          "Awkuzu Ii",
+          "Awkuzu Iii",
+          "Awkuzu Iv",
+          "Nkwelle Ezunaka I",
+          "Nkwelle Ezunaka Ii",
+          "Nteje I",
+          "Nteje Ii",
+          "Nteje Iii",
+          "Nteje Iv",
+          "Nteje V",
+          "Ogbunike I",
+          "Ogbunike Ii",
+          "Umunya I",
+          "Umunya Ii"
+        ]
       }
     ]
   },
@@ -833,83 +1545,315 @@
     "lgas": [
       {
         "lga": "Alkaleri",
-        "wards": []
+        "wards": [
+          "Alkaleri",
+          "Birin/ Gigara/ Yankari",
+          "Dan Kungibar",
+          "Futuk",
+          "Gar",
+          "Gwana / Mansur",
+          "Gwaram",
+          "Maimadi",
+          "Pali",
+          "Yalo",
+          "Yuli/ Lim"
+        ]
       },
       {
         "lga": "Bauchi",
-        "wards": []
+        "wards": [
+          "Birshi/miri",
+          "Dan'iya Hardo",
+          "Dandango/yamrat",
+          "Dawaki",
+          "Galambi/gwaskwaram",
+          "Kangyare/turwun",
+          "Kundum/durum",
+          "Majidadi 'a'",
+          "Majidadi 'b'",
+          "Makama/sarki Baki",
+          "Mun/munsal",
+          "Zungur/liman Katagum"
+        ]
       },
       {
         "lga": "Bogoro",
-        "wards": []
+        "wards": [
+          "B O I 'a'",
+          "B O I 'b'",
+          "B O I 'c'",
+          "Bogoro 'a'",
+          "Bogoro 'b'",
+          "Bogoro 'c'",
+          "Bogoro 'd'",
+          "Lusa 'a'",
+          "Lusa 'b'",
+          "Lusa 'c'"
+        ]
       },
       {
         "lga": "Damban",
-        "wards": []
+        "wards": [
+          "Dagauda",
+          "Dambam",
+          "Gargawa",
+          "Garuza",
+          "Gurbana",
+          "Jalam Central",
+          "Jalam East",
+          "Yame",
+          "Yanda",
+          "Zaura"
+        ]
       },
       {
         "lga": "Darazo",
-        "wards": []
+        "wards": [
+          "Darazo",
+          "Gabarin",
+          "Gabciyari",
+          "Konkiyal",
+          "Lago",
+          "Lanzai",
+          "Papa",
+          "Sade",
+          "Tauya",
+          "Wahu",
+          "Yautare"
+        ]
       },
       {
         "lga": "Dass",
-        "wards": []
+        "wards": [
+          "Bagel/bajar",
+          "Baraza",
+          "Bundot",
+          "Bununu Central",
+          "Bununu South",
+          "Dott",
+          "Durr",
+          "Polchi",
+          "Wandi",
+          "Zumbul/lukshi"
+        ]
       },
       {
         "lga": "Gamawa",
-        "wards": []
+        "wards": [
+          "Alagarno/jadori",
+          "Gadiya",
+          "Gamawa",
+          "Gololo",
+          "Kafin Romi",
+          "Kubdiya",
+          "Raga",
+          "Tarmasuwa",
+          "Tumbi",
+          "Udubo",
+          "Zindi"
+        ]
       },
       {
         "lga": "Ganjuwa",
-        "wards": []
+        "wards": [
+          "Ganjuwa",
+          "Gungura",
+          "Kafin Madaki",
+          "Kariya",
+          "Kubi East",
+          "Kubi West",
+          "Miya East",
+          "Miya West",
+          "Nasarawa South",
+          "Nasarawa North",
+          "Yali"
+        ]
       },
       {
         "lga": "Giade",
-        "wards": []
+        "wards": [
+          "Chinkani",
+          "Doguwa South",
+          "Doguwa Central",
+          "Giade",
+          "Isawa",
+          "Sabon Sara",
+          "U. Zum 'a'",
+          "Uzum 'b'",
+          "Zabi",
+          "Zirrami"
+        ]
       },
       {
         "lga": "Itas/Gadau",
-        "wards": []
+        "wards": [
+          "Abdallawa/magarya",
+          "Bambal",
+          "Bilkicheri",
+          "Buzawa",
+          "Gadau",
+          "Gwarai",
+          "Itas",
+          "Kashuri",
+          "Mashema",
+          "Zubuki"
+        ]
       },
       {
         "lga": "Jamaare",
-        "wards": []
+        "wards": [
+          "Dogon Jeji 'a'",
+          "Dogon Jeji 'b'",
+          "Dogon Jeji 'c'",
+          "Galdimari",
+          "Hanafari",
+          "Jama'are 'a'",
+          "Jama'are 'b'",
+          "Jama'are 'c'",
+          "Jama'are 'd'",
+          "Jurara"
+        ]
       },
       {
         "lga": "Katagum",
-        "wards": []
+        "wards": [
+          "Bulkachuwa/dagaro",
+          "Buskuri",
+          "Chinade",
+          "Gambaki/bidir",
+          "Madachi/gangai",
+          "Madangala",
+          "Madara",
+          "Nasarawa Bakin Kasuwa",
+          "Ragwam/magonshi",
+          "Tsakuwa Kofar Gabas/ Kofar Kuka",
+          "Yayu"
+        ]
       },
       {
         "lga": "Kirfi",
-        "wards": []
+        "wards": [
+          "Badara",
+          "Bara",
+          "Beni 'a'",
+          "Beni 'b'",
+          "Dewu Central",
+          "Dewu East",
+          "Kirfi",
+          "Shango",
+          "Tubule",
+          "Wanka"
+        ]
       },
       {
         "lga": "Misau",
-        "wards": []
+        "wards": [
+          "Ajilin/gugulin",
+          "Beti",
+          "Gwaram",
+          "Hardawa",
+          "Jarkasa",
+          "Kukadi/gundari",
+          "Sarma/akuyam",
+          "Sirko",
+          "Tofu",
+          "Zadawa"
+        ]
       },
       {
         "lga": "Ningi",
-        "wards": []
+        "wards": [
+          "Balma",
+          "Bashe",
+          "Burra / Kyata",
+          "Dingis",
+          "Jangu",
+          "Kudu / Yamma",
+          "Kurmi",
+          "Nasaru",
+          "Ningi",
+          "Sama",
+          "Tiffi / Guda"
+        ]
       },
       {
         "lga": "Shira",
-        "wards": []
+        "wards": [
+          "Andubun",
+          "Beli/gagidaba",
+          "Bukul/bangire",
+          "Disina",
+          "Faggo",
+          "Kilbori",
+          "Sambuwal",
+          "Shira",
+          "Tsafi",
+          "Tumfafi",
+          "Zubo"
+        ]
       },
       {
         "lga": "Tafawa Balewa",
-        "wards": []
+        "wards": [
+          "Ball",
+          "Bula",
+          "Bununu",
+          "Dajin",
+          "Dull",
+          "Kardam 'a'",
+          "Kardam 'b'",
+          "Lere South",
+          "Lere North",
+          "Tapshin",
+          "Wai"
+        ]
       },
       {
         "lga": "Toro",
-        "wards": []
+        "wards": [
+          "Jama'a / Zaranda",
+          "Lame",
+          "Mara / Palama",
+          "Rahama",
+          "Rauta / Geji",
+          "Ribina",
+          "Tama",
+          "Tilden Fulani",
+          "Toro / Tulai",
+          "Wonu",
+          "Zalau / Rishi"
+        ]
       },
       {
         "lga": "Warji",
-        "wards": []
+        "wards": [
+          "Baima South/east",
+          "Baima North / West",
+          "Dagu East",
+          "Dagu West",
+          "Gabanga",
+          "Katanga",
+          "Kilbori",
+          "Rangan",
+          "Tiyin",
+          "Tudun Wada West"
+        ]
       },
       {
         "lga": "Zaki",
-        "wards": []
+        "wards": [
+          "Alangawari / Kafin / Larabawa",
+          "Bursali",
+          "Gumai",
+          "Katagum",
+          "Mainako",
+          "Maiwa",
+          "Makawa",
+          "Murmur South",
+          "Murmur North",
+          "Sakwa",
+          "Tashena / Gadai"
+        ]
       }
     ]
   },
@@ -918,35 +1862,148 @@
     "lgas": [
       {
         "lga": "Brass",
-        "wards": []
+        "wards": [
+          "Brass 1",
+          "Brass Ward Ii",
+          "Cape Farmosa",
+          "Ewoama/fantuo",
+          "Konsho",
+          "Minibie",
+          "Odioma/diema",
+          "Okpoama",
+          "Os-inibiri",
+          "Sangana"
+        ]
       },
       {
         "lga": "Ekeremor",
-        "wards": []
+        "wards": [
+          "Eduwini I",
+          "Eduwini Ii",
+          "Oporomor I",
+          "Oporomor Ii",
+          "Oporomor Iii",
+          "Oporomor Iv",
+          "Oporomor V",
+          "Oyiakiri I",
+          "Oyiakiri Ii",
+          "Oyiakiri Iii",
+          "Oyiakiri Iv",
+          "Tarakiri"
+        ]
       },
       {
         "lga": "Kolokuma/Opokuma",
-        "wards": []
+        "wards": [
+          "Igbedi",
+          "Kaiama",
+          "Kaiama/olobiri",
+          "Odi (central) Ii",
+          "Odi (north) I",
+          "Odi (south) Iii",
+          "Okoloba (sabagreia) Ii",
+          "Opokuma North",
+          "Opokumasouth",
+          "Sampou/kalama",
+          "Seibokorogha (sabagreia) 1"
+        ]
       },
       {
         "lga": "Nembe",
-        "wards": []
+        "wards": [
+          "Bassambiri 1",
+          "Bassambiri 11",
+          "Bassambiri 111",
+          "Bassambiri 1v",
+          "Igbeta-ewoama/fantuo",
+          "Ikensi",
+          "Mini",
+          "Ogbolomabiri 1",
+          "Ogbolomabiri 11",
+          "Ogbolomabiri 111",
+          "Okoroma 1",
+          "Okoroma 11",
+          "Oluasiri"
+        ]
       },
       {
         "lga": "Ogbia",
-        "wards": []
+        "wards": [
+          "Anyama",
+          "Emeyal",
+          "Imiringi",
+          "Kolo",
+          "Ogbia",
+          "Okodi",
+          "Ologi",
+          "Oloibiri",
+          "Opume",
+          "Otakeme",
+          "Otuabula",
+          "Otuasega",
+          "Otuokpoti"
+        ]
       },
       {
         "lga": "Sagbama",
-        "wards": []
+        "wards": [
+          "Adagbabiri",
+          "Adoni",
+          "Agbere",
+          "Agoro",
+          "Angalabiri",
+          "Asamabiri",
+          "Ebedebiri",
+          "Ofoni I",
+          "Ofoni Ii",
+          "Osekwenike",
+          "Ossiama",
+          "Sagbama",
+          "Toru-ebeni",
+          "Trofani"
+        ]
       },
       {
         "lga": "Southern Ijaw",
-        "wards": []
+        "wards": [
+          "Amassoma I",
+          "Amassoma Ii",
+          "Amassoma Iii",
+          "Apoi",
+          "Central Boma I",
+          "Central Boma Ii",
+          "East Boma I",
+          "East Boma Ii",
+          "Foropa",
+          "Koluama",
+          "Olodiama I",
+          "Olodiama Ii",
+          "Oporoma Ii",
+          "Oporoma 1",
+          "Otuan",
+          "Ukubie",
+          "West Boma"
+        ]
       },
       {
         "lga": "Yenegoa",
-        "wards": []
+        "wards": [
+          "Attissa I",
+          "Attissa Ii",
+          "Attissa Iii",
+          "Biseni 1",
+          "Biseni 11",
+          "Ekpetiama 11",
+          "Ekpetiama I",
+          "Epie 11",
+          "Epie I",
+          "Epie Iii",
+          "Gbarain I",
+          "Gbarain Ii",
+          "Gbarain Iii",
+          "Okordia",
+          "Zarama"
+        ]
       }
     ]
   },
@@ -955,91 +2012,394 @@
     "lgas": [
       {
         "lga": "Ado",
-        "wards": []
+        "wards": [
+          "Akoge/ogbilolo",
+          "Apa",
+          "Ekile",
+          "Igumale I",
+          "Igumale Ii",
+          "Ijigban",
+          "Ogege",
+          "Royongo",
+          "Ukwonyo",
+          "Ulayi"
+        ]
       },
       {
         "lga": "Agatu",
-        "wards": []
+        "wards": [
+          "Egba",
+          "Enungba",
+          "Obagaji",
+          "Odugbeho",
+          "Ogbaulu",
+          "Ogwule Ogbaulu",
+          "Ogwule-kaduna",
+          "Okokolo",
+          "Oshigbudu",
+          "Usha"
+        ]
       },
       {
         "lga": "Apa",
-        "wards": []
+        "wards": [
+          "Akpete/ojantelle",
+          "Auke",
+          "Edikwu I",
+          "Edikwu Ii",
+          "Igah-okpaya",
+          "Igoro",
+          "Ikobi",
+          "Oba",
+          "Ofoke",
+          "Oiji",
+          "Ugbokpo"
+        ]
       },
       {
         "lga": "Buruku",
-        "wards": []
+        "wards": [
+          "Binev",
+          "Etulo",
+          "Mbaade",
+          "Mbaakura",
+          "Mbaapen",
+          "Mbaatirkyaa",
+          "Mbaazagee",
+          "Mbaikyongo/nyifon",
+          "Mbaityough",
+          "Mbakyaan",
+          "Mbaya",
+          "Mbayaka",
+          "Shorov"
+        ]
       },
       {
         "lga": "Gboko",
-        "wards": []
+        "wards": [
+          "Gbk/central Market",
+          "Gboko East",
+          "Gboko North West",
+          "Gboko South",
+          "Igyorov",
+          "Mbaa Varakaa",
+          "Mbaanku",
+          "Mbadam",
+          "Mbadim",
+          "Mbakper",
+          "Mbakwen",
+          "Mbatan",
+          "Mbatser",
+          "Mbatyu",
+          "Ukpekpe",
+          "Yandev North",
+          "Yandev South"
+        ]
       },
       {
         "lga": "Guma",
-        "wards": []
+        "wards": [
+          "Abinsi",
+          "Kaambe",
+          "Mbabai",
+          "Mbadwem",
+          "Mbawa",
+          "Mbayer/yandev",
+          "Nyiev",
+          "Nzorov",
+          "Saghev",
+          "Uvir"
+        ]
       },
       {
         "lga": "Gwer East",
-        "wards": []
+        "wards": [
+          "Akpach'ayi",
+          "Aliade Town",
+          "Gbemacha",
+          "Ikyogbajir",
+          "Ikyonov",
+          "Mbabur",
+          "Mbaiase",
+          "Mbaikyaan",
+          "Mbaikyu",
+          "Mbalom",
+          "Mbasombo",
+          "Mbayom",
+          "Shough",
+          "Ugee"
+        ]
       },
       {
         "lga": "Gwer West",
-        "wards": []
+        "wards": [
+          "Avihijime",
+          "Gaambe - Ushin",
+          "Gbaange/tongov",
+          "Ikyaghev",
+          "Isambe/mbasev",
+          "Ityoughatee/injaha",
+          "Mbabuande",
+          "Mbachohon",
+          "Mbanyamshi",
+          "Mbapa",
+          "Merkyen",
+          "Sagher/ukusu",
+          "Sengev",
+          "Sengev/yengev",
+          "Tijime"
+        ]
       },
       {
         "lga": "Katsina-Ala",
-        "wards": []
+        "wards": [
+          "Ikurav Tiev I",
+          "Ikurav Tiev Ii",
+          "Iwar(tongov I)",
+          "Katsina-ala Town",
+          "Mbacher",
+          "Mbajir",
+          "Mbatula/mberev",
+          "Mbayongo",
+          "Michihe",
+          "Tiir(tongov Ii)",
+          "Utange",
+          "Yooyo"
+        ]
       },
       {
         "lga": "Konshisha",
-        "wards": []
+        "wards": [
+          "Ikyurav/mbatwer",
+          "Mbagusa/mbatser",
+          "Mbaikyase",
+          "Mbaiwarnyam",
+          "Mbake",
+          "Mbanor",
+          "Mbatsen",
+          "Mbavoa",
+          "Mbawar",
+          "Mbayegh/mbaikyer",
+          "Tse-agberagba"
+        ]
       },
       {
         "lga": "Kwande",
-        "wards": []
+        "wards": [
+          "Adikpo Metropolis",
+          "Kumakwagh",
+          "Liev I",
+          "Liev Ii",
+          "Mbadura",
+          "Mbagba/mbaikyan",
+          "Mbaikyor",
+          "Mbaketsa",
+          "Mbayoo",
+          "Menev",
+          "Moon",
+          "Tondov I",
+          "Tondov Ii",
+          "Usar",
+          "Yaav"
+        ]
       },
       {
         "lga": "Logo",
-        "wards": []
+        "wards": [
+          "Mbadyul",
+          "Mbagber",
+          "Mbater",
+          "Mbavuur",
+          "Mbayam",
+          "Nenzev",
+          "Tombo",
+          "Turan",
+          "Ukembergya/iswarev",
+          "Yonov"
+        ]
       },
       {
         "lga": "Makurdi",
-        "wards": []
+        "wards": [
+          "Agan",
+          "Ankpa/wadata",
+          "Bar",
+          "Central/south Mission",
+          "Clerks/market",
+          "Fildi",
+          "Mbalagh",
+          "Modern Market",
+          "North Bank I",
+          "North Bank Ii",
+          "Wailomayo"
+        ]
       },
       {
         "lga": "Obi",
-        "wards": []
+        "wards": [
+          "Adiko",
+          "Adum West",
+          "Ikwokwu",
+          "Irabi",
+          "Itogo",
+          "Obarike",
+          "Obeko",
+          "Odiapa",
+          "Ogore",
+          "Okpokwu",
+          "Okwutungbe",
+          "Orihi"
+        ]
       },
       {
         "lga": "Ogbadibo",
-        "wards": []
+        "wards": [
+          "Ai-oodo I",
+          "Ai-oodo Ii",
+          "Ai-oono I",
+          "Ai-oono Ii",
+          "Ai-oono Iii",
+          "Ehaje I",
+          "Ehaje Ii",
+          "Itabono I",
+          "Itabono Ii",
+          "Olachagbaha",
+          "Orokam I",
+          "Orokam Ii",
+          "Orokam Iii"
+        ]
       },
       {
         "lga": "Ohimini",
-        "wards": []
+        "wards": [
+          "Agadagba",
+          "Awume Ehaje",
+          "Awume Icho",
+          "Ehatokpe",
+          "Idekpa",
+          "Ochobo",
+          "Oglewu Ehaje",
+          "Oglewu Icho",
+          "Onyagede Icho (ogoli)",
+          "Onyagede-ehaje (alle)"
+        ]
+      },
+      {
+        "lga": "Oju",
+        "wards": [
+          "Adokpa",
+          "Ainu",
+          "Ibilla",
+          "Idelle",
+          "Iyeche",
+          "Oboru/oye",
+          "Oju",
+          "Okpokpo",
+          "Okwudu",
+          "Owo",
+          "Ukpa/ainu Ette"
+        ]
       },
       {
         "lga": "Okpokwu",
-        "wards": []
+        "wards": [
+          "Amejo",
+          "Eke",
+          "Ichama Ii",
+          "Ojigo",
+          "Ojoga",
+          "Okonobo",
+          "Okpaile/ingle",
+          "Okpoga Central",
+          "Okpoga North",
+          "Okpoga South",
+          "Okpoga West",
+          "Ugbokolo"
+        ]
       },
       {
         "lga": "Oturkpo",
-        "wards": []
+        "wards": [
+          "Adoka-haje",
+          "Adoka-icho",
+          "Allan",
+          "Entekpa",
+          "Ewulo",
+          "Okete",
+          "Otobi",
+          "Otukpo Town Central",
+          "Otukpo Town East",
+          "Otukpo Town West",
+          "Ugboju-ehaje",
+          "Ugboju-icho",
+          "Ugboju-otahe"
+        ]
       },
       {
         "lga": "Tarka",
-        "wards": []
+        "wards": [
+          "Mbaajir Akaa",
+          "Mbaayo",
+          "Mbachaver Ikyondo",
+          "Mbaigba",
+          "Mbaikyaa",
+          "Mbaikyo/mbayia",
+          "Mbakwakem",
+          "Mbanyagber",
+          "Shitile",
+          "Tongov"
+        ]
       },
       {
         "lga": "Ukum",
-        "wards": []
+        "wards": [
+          "Aterayange",
+          "Azendeshi",
+          "Borikyo",
+          "Ityuluv",
+          "Kendev",
+          "Kundav",
+          "Lumbuv",
+          "Mbatian",
+          "Mbayenge",
+          "Mbazun",
+          "Tsaav",
+          "Ugbaam",
+          "Uyam"
+        ]
       },
       {
         "lga": "Ushongo",
-        "wards": []
+        "wards": [
+          "Atikyese",
+          "Ikyov",
+          "Lessel",
+          "Mbaaka",
+          "Mbaanyam",
+          "Mbagba",
+          "Mbagwaza",
+          "Mbagwe",
+          "Mbakuha",
+          "Mbayegh",
+          "Utange"
+        ]
       },
       {
         "lga": "Vandeikya",
-        "wards": []
+        "wards": [
+          "Mbadede",
+          "Mbagbam",
+          "Mbagbera",
+          "Mbajor",
+          "Mbakaange",
+          "Mbakyaha",
+          "Mbanyumangbagh",
+          "Mbatyough",
+          "Mbayongo",
+          "Ningev",
+          "Tsambe",
+          "Vandeikya Township"
+        ]
       }
     ]
   },
@@ -1048,111 +2408,450 @@
     "lgas": [
       {
         "lga": "Abadam",
-        "wards": []
+        "wards": [
+          "Arege",
+          "Banowa",
+          "Fuguwa",
+          "Jabullam",
+          "Kudokurgu",
+          "Malam Kaunari",
+          "Mallamfatori Kessa",
+          "Yau",
+          "Yawa Kura",
+          "Yituwa"
+        ]
       },
       {
         "lga": "Askira/Uba",
-        "wards": []
+        "wards": [
+          "Askira East",
+          "Chul / Rumirgo",
+          "Dille / Huyum",
+          "Husara / Tampul",
+          "Kopa / Multhafu",
+          "Lassa",
+          "Mussa",
+          "Ngohi",
+          "Ngulde",
+          "Uba",
+          "Uda / Uvu",
+          "Wamdeo / Giwi",
+          "Zadawa / Hausari"
+        ]
       },
       {
         "lga": "Bama",
-        "wards": []
+        "wards": [
+          "Andara / Ajiri /wulba",
+          "Buduwa / Bula Chirabe",
+          "Dipchari / Jere / Dar-jamal / Kotembe",
+          "Gulumba / Jukkuri / Batra",
+          "Kasugula",
+          "Kumshe /nduguno",
+          "Lawanti / Malam / Mastari / Abbaram",
+          "Marka / Malge / Amchaka",
+          "Mbuliya / Goniri / Siraja",
+          "Sabsabwa / Soye/ Bulongu",
+          "Shehuri / Hausari / Mairi",
+          "Wulbari/ndine/chachile",
+          "Yabiri Kura/yabiri Gana/chongolo",
+          "Zangeri/kash Kash"
+        ]
       },
       {
         "lga": "Bayo",
-        "wards": []
+        "wards": [
+          "Balbaya",
+          "Briyel",
+          "Fikayel",
+          "Gamadadi",
+          "Jara Dali",
+          "Jara Gol",
+          "Limanti",
+          "Teli",
+          "Wuyo",
+          "Zara"
+        ]
       },
       {
         "lga": "Biu",
-        "wards": []
+        "wards": [
+          "Buratai",
+          "Dadin Kowa",
+          "Dugja",
+          "Garubula",
+          "Gur",
+          "Kenken",
+          "Mandara Girau",
+          "Miringa",
+          "Sulumthla",
+          "Yawi",
+          "Zarawuyaku"
+        ]
       },
       {
         "lga": "Chibok",
-        "wards": []
+        "wards": [
+          "Chibok Garu",
+          "Chibok Likama",
+          "Chibok Wuntaku",
+          "Gatamarwa",
+          "Kautikari",
+          "Korongilim",
+          "Kuburmbula",
+          "Mbalala",
+          "Mboa Kura",
+          "Pemi",
+          "Shikarkir"
+        ]
       },
       {
         "lga": "Damboa",
-        "wards": []
+        "wards": [
+          "Ajign (a)",
+          "Ajign (b)",
+          "Azur/multe/forfor",
+          "Bego/yerwa/ngurna",
+          "Damboa",
+          "Gumsuri/misakurbudu",
+          "Kafa / Mafi",
+          "Mulgwai / Kopchi",
+          "Nguda / Wuyaram",
+          "Wawa / Korede"
+        ]
       },
       {
         "lga": "Dikwa",
-        "wards": []
+        "wards": [
+          "Boboshe",
+          "Dikwa",
+          "Gajibo",
+          "Magarta / Sheffri",
+          "Mallam Maja",
+          "Mudu / Kaza",
+          "Muliye / Jemuri",
+          "Ngudoram",
+          "Sogoma / Afuye",
+          "Ufaye / Gujile"
+        ]
       },
       {
         "lga": "Gubio",
-        "wards": []
+        "wards": [
+          "Ardimini",
+          "Dabira",
+          "Felo",
+          "Gamowo",
+          "Gazabure",
+          "Gubio Town I",
+          "Gubio Town Ii",
+          "Kingowa",
+          "Ngetra",
+          "Zowo"
+        ]
       },
       {
         "lga": "Guzamala",
-        "wards": []
+        "wards": [
+          "Aduwa",
+          "Gudumbali East",
+          "Gudumbali West",
+          "Guworam",
+          "Guzamala East",
+          "Guzamala West",
+          "Kingarwa",
+          "Mairari",
+          "Moduri",
+          "Wamiri"
+        ]
       },
       {
         "lga": "Gwoza",
-        "wards": []
+        "wards": [
+          "Ashigashiya",
+          "Bita / Izge",
+          "Dure / Wala / Warabe",
+          "Gavva / Agapalwa",
+          "Guduf Nagadiyo",
+          "Gwoza Town Gadamayo",
+          "Gwoza Wakane / Bulabulin",
+          "Hambagda/ Liman Kara/ New Settlement",
+          "Johode/chikide/kughum",
+          "Kirawa/jimini",
+          "Kurana Bassa/ngoshe - Sama'a",
+          "Ngoshe",
+          "Pulka/bokko"
+        ]
       },
       {
         "lga": "Hawul",
-        "wards": []
+        "wards": [
+          "Bilingwi",
+          "Dzar/ Vinadum/ Birni/ Dlandi",
+          "Gwanzang Pusda",
+          "Hizhi",
+          "Kida",
+          "Kwajaffa/hang",
+          "Kwaya-bur/tanga Rumta",
+          "Marama/kidang",
+          "Pama/whitambaya",
+          "Puba/vidau/lokoja",
+          "Sakwa/hema",
+          "Shaffa"
+        ]
       },
       {
         "lga": "Jere",
-        "wards": []
+        "wards": [
+          "Alau",
+          "Bale Galtimari",
+          "Dala Lawanti",
+          "Dusuman",
+          "Gomari",
+          "Gongulong",
+          "Maimusari",
+          "Mairi",
+          "Mashamari",
+          "Ngudaa/addamari",
+          "Old Maiduguri",
+          "Tuba"
+        ]
       },
       {
         "lga": "Kaga",
-        "wards": []
+        "wards": [
+          "Afa/dig/maudori",
+          "Benisheikh",
+          "Borgozo",
+          "Dogoma / Jalori",
+          "Dongo",
+          "Galangi",
+          "Guwo",
+          "Karagawaru",
+          "Mainok",
+          "Marguba",
+          "Ngamdu",
+          "Shettimari",
+          "Tobolo",
+          "Wajiro / Burgumma",
+          "Wassaram"
+        ]
       },
       {
-        "lga": "Kala/Balge",
-        "wards": []
+        "lga": "Kala / Balge",
+        "wards": [
+          "Jarawa/sangaya",
+          "Jilbe 'a'",
+          "Jilbe 'b'/ koma Kaudi",
+          "Kala",
+          "Kumaga",
+          "Mada",
+          "Moholo",
+          "Rann 'a'",
+          "Rann 'b' / daima",
+          "Sigal/karche"
+        ]
       },
       {
         "lga": "Konduga",
-        "wards": []
+        "wards": [
+          "Auno / Chabbol",
+          "Dalori / Wanori",
+          "Dawa East / Malari / Kangamari",
+          "Jewu / Lamboa",
+          "Kawuri",
+          "Kelumiri / Ngalbi Amari / Yale",
+          "Konduga",
+          "Mairamri / Yeleri / Bazamri",
+          "Masba / Dalwa West",
+          "Nyaleri/sandia/yejiwa",
+          "Sojiri/ Nguro - Nguro"
+        ]
       },
       {
         "lga": "Kukawa",
-        "wards": []
+        "wards": [
+          "Alagarno",
+          "Baga",
+          "Bundur",
+          "Dogoshi",
+          "Doro / Duguri",
+          "Kauwa",
+          "Kekeno",
+          "Kukawa",
+          "Moduari / Barwari",
+          "Yoyo"
+        ]
       },
       {
         "lga": "Kwaya Kusar",
-        "wards": []
+        "wards": [
+          "Gondi",
+          "Gusi / Billa",
+          "Guwal",
+          "Kubuku",
+          "Kurba",
+          "Kwaya Kusar",
+          "Peta",
+          "Wada",
+          "Wawa",
+          "Yimirthalang"
+        ]
       },
       {
         "lga": "Mafa",
-        "wards": []
+        "wards": [
+          "Abbari",
+          "Anadua",
+          "Gawa",
+          "Koshebe",
+          "Laje",
+          "Limanti",
+          "Loskuri",
+          "Ma'afa",
+          "Mafa",
+          "Masu",
+          "Mujigine",
+          "Tamsu Ngamdua"
+        ]
       },
       {
         "lga": "Magumeri",
-        "wards": []
+        "wards": [
+          "Ardo Ram",
+          "Ayi / Yasku",
+          "Borno Yesu",
+          "Furram",
+          "Gaji Ganna I",
+          "Gaji Ganna Ii",
+          "Hoyo / Chin Gowa",
+          "Kalizoram / Banoram",
+          "Kareram",
+          "Kubti",
+          "Magumeri",
+          "Ngamma",
+          "Ngubala"
+        ]
       },
       {
         "lga": "Maiduguri",
-        "wards": []
+        "wards": [
+          "Bolori I",
+          "Bolori Ii",
+          "Bulablin",
+          "Fezzan",
+          "Gamboru Liberty",
+          "Gwange I",
+          "Gwange Ii",
+          "Gwange Iii",
+          "Hausari/zango",
+          "Lamisula/jabba Mari",
+          "Limanti",
+          "Mafoni",
+          "Maisandari",
+          "Shehuri North",
+          "Shehuri South"
+        ]
       },
       {
         "lga": "Marte",
-        "wards": []
+        "wards": [
+          "Ala",
+          "Alla Lawanti",
+          "Borsori",
+          "Gumna",
+          "Kabulawa",
+          "Kirenowa",
+          "Kulli",
+          "Marte",
+          "Mawulli",
+          "Musune",
+          "Ngeleiwa",
+          "Njine",
+          "Zaga"
+        ]
       },
       {
         "lga": "Mobbar",
-        "wards": []
+        "wards": [
+          "Asaga",
+          "Bogum",
+          "Chamba",
+          "Damasak",
+          "Duji",
+          "Gashagar",
+          "Kareto",
+          "Layi",
+          "Zanna Umorti",
+          "Zari"
+        ]
       },
       {
         "lga": "Monguno",
-        "wards": []
+        "wards": [
+          "Damakuli",
+          "Kaguram",
+          "Kumalia",
+          "Mandala",
+          "Mintar",
+          "Mofio",
+          "Monguno",
+          "Ngurno",
+          "Sure",
+          "Wulo",
+          "Yele",
+          "Zulum"
+        ]
       },
       {
         "lga": "Ngala",
-        "wards": []
+        "wards": [
+          "Fuye",
+          "Gamboru 'b'",
+          "Gamboru 'c'",
+          "Logumane",
+          "Ndufu",
+          "Ngala Ward",
+          "Old Gamboru 'a'",
+          "Sagir",
+          "Tunokalia",
+          "Warshele",
+          "Wulgo",
+          "Wurge"
+        ]
       },
       {
         "lga": "Nganzai",
-        "wards": []
+        "wards": [
+          "Alarge",
+          "Badu",
+          "Damaram",
+          "Gadai",
+          "Gajiram",
+          "Jigalta",
+          "Kuda",
+          "Kurnawa",
+          "Maiwa",
+          "Miye",
+          "Sabsabuwa",
+          "Sugundure"
+        ]
       },
       {
         "lga": "Shani",
-        "wards": []
+        "wards": [
+          "Bargu / Burashika",
+          "Buma",
+          "Gasi / Salifawa",
+          "Gora",
+          "Gwalasho",
+          "Gwaskara",
+          "Kombo",
+          "Kubo",
+          "Kwaba",
+          "Shani",
+          "Walama"
+        ]
       }
     ]
   },
@@ -1708,8 +3407,96 @@
     "state": "FCT",
     "lgas": [
       {
-        "lga": "",
-        "wards": []
+        "lga": "Abaji",
+        "wards": [
+          "Abaji Central",
+          "Abaji North East",
+          "Abaji South East",
+          "Agyana/pandagi",
+          "Alu Mamagi",
+          "Gawu",
+          "Gurdi",
+          "Nuku",
+          "Rimba Ebagi",
+          "Yaba"
+        ]
+      },
+      {
+        "lga": "Abuja Municipal Area Council",
+        "wards": [
+          "City Centre",
+          "Garki",
+          "Gui",
+          "Gwagwa",
+          "Gwarinpa",
+          "Jiwa",
+          "Kabusa",
+          "Karshi",
+          "Karu",
+          "Nyanya",
+          "Orozo",
+          "Wuse"
+        ]
+      },
+      {
+        "lga": "Bwari",
+        "wards": [
+          "Bwari Central",
+          "Byazhin",
+          "Dutse Alhaji",
+          "Igu",
+          "Kawu",
+          "Kubwa",
+          "Kuduru",
+          "Shere",
+          "Ushafa",
+          "Usuma"
+        ]
+      },
+      {
+        "lga": "Gwagwalada",
+        "wards": [
+          "Dobi",
+          "Gwagwalada Centre",
+          "Gwako",
+          "Ibwa",
+          "Ikwa",
+          "Kutunku",
+          "Paiko",
+          "Staff Quarters",
+          "Tungan Maje",
+          "Zuba"
+        ]
+      },
+      {
+        "lga": "Kuje",
+        "wards": [
+          "Chibiri",
+          "Gaube",
+          "Gudun Karya",
+          "Gwargwada",
+          "Kabi",
+          "Kuje",
+          "Kujekwa",
+          "Kwaku",
+          "Rubochi",
+          "Yenche"
+        ]
+      },
+      {
+        "lga": "Kwali",
+        "wards": [
+          "Ashara",
+          "Dafa",
+          "Gumbo",
+          "Kilankwa",
+          "Kundu",
+          "Kwali Ward",
+          "Pai",
+          "Wako",
+          "Yangoji",
+          "Yebu"
+        ]
       }
     ]
   }
